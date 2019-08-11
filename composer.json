@@ -1,0 +1,14 @@
+{
+    "name": "xtlab/myproject01",
+    "description": "Day la du an PHP",
+    "authors": [
+        {
+            "name": "trinhdinhnam",
+            "email": "trinhdinhnam16898@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}
